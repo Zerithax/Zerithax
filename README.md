@@ -1,5 +1,5 @@
 - Greetings newcomer, I’m @Zerithax
-- I am a VR enthusiast and aspiring Developer who spends a little bit of time every day contributing to/managing my Patreon team as well as touching up on my Java & Test Automation skills to expand my knowledge!
+- I am a VR enthusiast and aspiring Developer who spends a little bit of time every day contributing to/managing my Patreon team.
 - I’m currently ...
 - I’m actively applying! Interested in Test Automation, C#/Java Programming, and Game Development roles.
 - Feel free to contact me at cawheelock1027@gmail.com for business inquiries or send a message request to Zerithax#4276 on discord if you just want to chat!
@@ -11,8 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 
 # My work
-
-Work will be ordered chronologically starting from past to present. 
 
 ## Project Aincrad and Argus
 
