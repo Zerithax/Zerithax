@@ -1,8 +1,7 @@
 - Greetings newcomer, I’m @Zerithax
-- I am a VR enthusiast and aspiring Developer who spends a little bit of time every day contributing to/managing my Patreon team.
-- I’m currently ...
-- I’m actively applying! Interested in Test Automation, C#/Java Programming, and Game Development roles.
-- Feel free to contact me at cawheelock1027@gmail.com for business inquiries or send a message request to Zerithax#4276 on discord if you just want to chat!
+- I am a VR enthusiast and aspiring Developer who spends a little bit of time every day contributing to/managing my Patreon team and building personal projects.
+- I’m currently unemployed and actively applying! Interested in Quality Assurance, Test Automation, Tier 1/2 Support, Programming, and Game Development roles.
+- Feel free to contact me at cawheelock1027@gmail.com for business inquiries or send a message request to Zerithax#4276 on discord if you want to talk about one of my projects!
 
 <!---
 Zerithax/Zerithax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
